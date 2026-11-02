@@ -1,7 +1,4 @@
-### Hi there 👋
-
-I do things, some of the time. Not very active. 
-Current Project: "BogBase," a Godot project aiming to create underlying mechanics for a game.
+I like games, may contribute to them on occasion, or work on my own.
 
 <!--
 **AYellowShadeOfBlue/AYellowShadeOfBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
